@@ -73,7 +73,8 @@ Kaggle is hosting this competition for the machine learning community to use for
 
 
 ## License
-[License](LICENSE.txt)<br><br>
+[License](LICENSE)<br><br>
+
 
 Thank you for taking the time to visit this repository!
 
